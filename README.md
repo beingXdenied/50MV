@@ -3,3 +3,5 @@
 </div>
 
 Curiosity → rabbit hole → somehow it works.
+
+<a rel="me" href="https://mastodon.social/@BeingXDenied">Mastodon</a>
